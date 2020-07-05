@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tajul Arifin S</title>
+    <link>https://arifintajul4.github.io/</link>
+    <description>Recent content on Tajul Arifin S</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://arifintajul4.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://arifintajul4.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://arifintajul4.github.io/posts/my-first-post/</guid>
+      <description>Ini seharusnya menjadi halaman pertama, biasanya hanya berisi Hello World! saja. Atau mau dijadikan halaman lain?
+Nanti saja, saya belum ada inspirasi.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://arifintajul4.github.io/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://arifintajul4.github.io/about/</guid>
+      <description>Hi, perkenalkan, namaku Tajul Arifin S.
+Seorang yang bukan siapa2 yang lagi suka ngoding dan tertarik dengan yang namanya Teknologi. Sekarang sedang berkuliah di Institut Teknologi PLN - Jakarta jurusan Teknik Informatika. selain menjadi mahasiswa, kebetulan juga diamanahkan menjadi Asisten Laboratorium Komputer - Dasar.
+kirim saya email di arifintajul4@gmail.com atau kunjungi Instagramku
+Mungkin, kita bisa berbincang sambil tukar sesuatu yang bisa ditukar.</description>
+    </item>
+    
+  </channel>
+</rss>
